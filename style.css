@@ -1,0 +1,50 @@
+.heading
+{
+    color: white;
+    background-color: grey;
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.heading_div
+{
+    float: none;
+    background: white;
+    box-shadow: 5px 5px 5px grey;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.heading_div2
+{
+    font-size: 18px;
+}
+.result_para_tag
+{
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+}
+
+canvas
+{
+    border: 5px dashed black;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 400px;
+    border-radius: 20px;
+
+}
+
+.footer
+{
+    color: white;
+    position: fixed;
+    bottom: 0;
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+    line-height: 5;
+    font-size: 15px;
+}
