@@ -28,15 +28,6 @@
     font-size: 20px;
 }
 
-canvas
-{
-    border: 5px dashed black;
-    box-shadow: 5px 5px 5px grey;
-    margin-top: 400px;
-    border-radius: 20px;
-
-}
-
 .footer
 {
     color: white;
